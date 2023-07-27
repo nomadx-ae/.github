@@ -1,6 +1,6 @@
 # DevOps Consulting UAE
 
-NomadX is a [DevOps Consulting](https://nomadx.ae) consulting company in UAE.
+NomadX is a [DevOps Consulting](https://nomadx.ae) company in UAE.
 
 We provide [Kubernetes Consulting](https://kubernetes.ae), [Blockchain Consulting](https://ledgers.ae) services.
 
@@ -10,7 +10,7 @@ At NomadX, we take pride in being a leading DevOps and Kubernetes consulting com
 
 As the digital landscape continues to evolve, DevOps and Kubernetes have emerged as crucial components for organizations seeking to stay competitive and agile in today's dynamic market. Our team of expert consultants brings a wealth of experience and knowledge, enabling us to deliver customized solutions tailored to the unique needs of businesses in Dubai and beyond.
 
-With a deep understanding of DevOps methodologies and best practices, we assist clients in streamlining their software development processes, enhancing collaboration between teams, and automating workflows to achieve faster, error-free deployments. Our DevOps consulting services are designed to integrate seamlessly with your existing infrastructure, ensuring a smooth transition and maximum return on investment.
+With a deep understanding of DevOps methodologies and best practices, we assist clients in streamlining their software development processes, enhancing collaboration between teams, and automating workflows to achieve faster error-free deployments. Our DevOps consulting services are designed to integrate seamlessly with your existing infrastructure, ensuring a smooth transition and maximum return on investment.
 
 Additionally, as Kubernetes gains popularity as a powerful container orchestration platform, we are at the forefront of providing specialized Kubernetes consulting services. Our Kubernetes experts enable organizations to harness the full potential of containerization, enabling rapid deployment, scaling, and management of applications with unparalleled efficiency and reliability.
 
