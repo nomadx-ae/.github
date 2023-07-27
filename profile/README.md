@@ -1,6 +1,6 @@
 # DevOps Consulting UAE
 
-NomadX is a [DevOps Consulting](https://nomadx.ae) company in UAE.
+[NomadX](https://nomadx.ae) is a [DevOps Consulting](https://devsecops.ae) company in UAE.
 
 We provide [Kubernetes Consulting](https://kubernetes.ae), [Blockchain Consulting](https://ledgers.ae) services.
 
