@@ -1,23 +1,51 @@
-# DevOps Consulting UAE
+# NomadX
 
-[NomadX](https://nomadx.ae) is a [DevOps Consulting](https://devsecops.ae) company in UAE.
+**AI Agents, Kubernetes, DevSecOps & Cloud-Native Consulting — Dubai, UAE**
 
-We provide [Kubernetes Consulting](https://kubernetes.ae), [Blockchain Consulting](https://ledgers.ae) services.
+We help enterprises build, secure, and operate cloud-native infrastructure across the GCC and globally. 20+ years of Linux and infrastructure experience. Senior-only delivery.
 
-## Welcome to NomadX: Empowering Your Business with DevOps and Kubernetes Consulting Excellence in Dubai, UAE
+---
 
-At NomadX, we take pride in being a leading DevOps and Kubernetes consulting company in Dubai, UAE. Our mission is to empower businesses across various industries with cutting-edge technology solutions that accelerate growth, innovation, and operational efficiency.
+### Consulting Practices
 
-As the digital landscape continues to evolve, DevOps and Kubernetes have emerged as crucial components for organizations seeking to stay competitive and agile in today's dynamic market. Our team of expert consultants brings a wealth of experience and knowledge, enabling us to deliver customized solutions tailored to the unique needs of businesses in Dubai and beyond.
+| Practice | Domain | Focus |
+|----------|--------|-------|
+| **NomadX** | [nomadx.ae](https://nomadx.ae) | AI Agents Consultancy |
+| **DevSecOps** | [devsecops.ae](https://devsecops.ae) | DevOps & Security Consulting |
+| **Kubernetes** | [kubernetes.ae](https://kubernetes.ae) | AI-Native Kubernetes Consulting |
+| **Ledgers** | [ledgers.ae](https://ledgers.ae) | Agentic Payment Infrastructure |
+| **Pentest** | [pentest.ae](https://pentest.ae) | AI Security Testing |
 
-With a deep understanding of DevOps methodologies and best practices, we assist clients in streamlining their software development processes, enhancing collaboration between teams, and automating workflows to achieve faster error-free deployments. Our DevOps consulting services are designed to integrate seamlessly with your existing infrastructure, ensuring a smooth transition and maximum return on investment.
+### Open Source
 
-Additionally, as Kubernetes gains popularity as a powerful container orchestration platform, we are at the forefront of providing specialized Kubernetes consulting services. Our Kubernetes experts enable organizations to harness the full potential of containerization, enabling rapid deployment, scaling, and management of applications with unparalleled efficiency and reliability.
+| Project | Description |
+|---------|-------------|
+| **[kubeqa](https://github.com/nomadx-ae/kubeqa)** | Open-source Kubernetes QA platform — health scanning, chaos engineering, compliance auditing, and deployment gates in a single Go CLI |
 
-At NomadX, we recognize that each industry has its unique challenges and requirements. Our diverse portfolio includes successful collaborations with businesses in finance, healthcare, e-commerce, telecommunications, and more. We have earned the trust of our clients by consistently delivering scalable, secure, and cost-effective solutions that drive tangible business outcomes.
+### QA & Specialty Platforms
 
-Our commitment to excellence extends beyond project completion. We prioritize knowledge transfer and continuous support, empowering your teams with the skills and confidence needed to sustain and evolve the solutions we provide.
+| Platform | Domain | Focus |
+|----------|--------|-------|
+| **kubeqa** | [kubernetes.qa](https://kubernetes.qa) | Kubernetes QA Platform (OSS + Cloud) |
+| **AI/ML QA** | [aiml.qa](https://aiml.qa) | AI/ML Quality Assurance |
+| **Remote QA** | [remote.qa](https://remote.qa) | AI-Augmented Remote QA Teams |
+| **ML Architecture** | [mlai.qa](https://mlai.qa) | ML Architecture & Strategy |
+| **FinOps QA** | [finops.qa](https://finops.qa) | FinOps Quality Assurance |
+| **DevSecOps QA** | [devsecops.qa](https://devsecops.qa) | Global DevSecOps QA |
 
-If you seek a DevOps and Kubernetes consulting partner that understands your business goals and can help you navigate the complexities of modern technology, look no further. NomadX is here to unlock the true potential of your organization and pave the way for sustained success in the digital era.
+### Global Presence
 
-Embrace the power of DevOps and Kubernetes with NomadX, your trusted technology partner in Dubai, UAE. Let's embark on a transformative journey together, taking your business to new heights of excellence and innovation.
+| Site | Region |
+|------|--------|
+| [devopsuae.com](https://devopsuae.com) | UAE |
+| [devopsdubai.com](https://devopsdubai.com) | Dubai |
+| [devopsqatar.com](https://devopsqatar.com) | Qatar |
+| [devopssaudi.com](https://devopssaudi.com) | Saudi Arabia |
+| [devopsbahrain.com](https://devopsbahrain.com) | Bahrain |
+| [devsecopscanada.com](https://devsecopscanada.com) | Canada |
+| [devopstars.com](https://devopstars.com) | US |
+| [kubernetesguru.com](https://kubernetesguru.com) | Global K8s Authority |
+
+---
+
+**Dubai, UAE** · [nomadx.ae](https://nomadx.ae) · [LinkedIn](https://www.linkedin.com/company/nomadx-ae) · [Twitter](https://twitter.com/rustemabd)
